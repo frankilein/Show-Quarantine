@@ -2,7 +2,7 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>b9ad1741-d198-4a29-b3c3-66538a59a2c9</Id>
   <Version>1.0.1.1</Version>
-  <ProviderName>SE IT CCS</ProviderName>
+  <ProviderName>SE IT IN CCS</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Show Quarantine"/>
   <Description DefaultValue="Click the add-in to show the Exchange onlone quarantine folder in a browser."/>
