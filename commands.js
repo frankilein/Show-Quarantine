@@ -30,17 +30,3 @@ function action(event) {
   // Be sure to indicate when the add-in command function is complete
   event.completed();
 }
-
-function getGlobal() {
-  return typeof self !== "undefined"
-    ? self
-    : typeof window !== "undefined"
-    ? window
-    : typeof global !== "undefined"
-    ? global
-    : undefined;
-}
-
-const g = getGlobal();
-
-// The add-in command functions need to be available in global scope g.action = action;
