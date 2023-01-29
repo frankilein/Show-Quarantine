@@ -75,7 +75,7 @@
         <bt:Url id="Commands.Url" DefaultValue="https://frankilein.github.io/Show-Quarantine/commands.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GroupLabel" DefaultValue="SE Add-in"/>
+        <bt:String id="GroupLabel" DefaultValue="Add-in"/>
         <bt:String id="ActionButton.Label" DefaultValue="Show Quarantine"/>
 	  </bt:ShortStrings>
       <bt:LongStrings>
