@@ -8,5 +8,18 @@ Got the idea and most of the code from here:
 https://blog.expta.com/2021/10/how-to-install-outlook-add-in-to-view.html
 
 Unfortunately this isn't working in my case in folders with preview pane off.
-Installation to clients via EAC for Exchange online is accepted w/o errors,
-but the add-in does not arrive at the clients.
+
+MS manifest.xml supports the following xsi-types only:
+MessageReadCommandSurface
+MessageComposeCommandSurface
+AppointmentOrganizerCommandSurface
+AppointmentAttendeeCommandSurface
+Module (Kann nur im DesktopFormFactor verwendet werden.)
+MobileMessageReadCommandSurface
+MobileOnlineMeetingCommandSurface
+MobileLogEventAppointmentAttendee
+LaunchEvent
+Events
+DetectedEntity
+
+None of them unfortunately allows add-in execution in home window.
