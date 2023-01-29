@@ -24,4 +24,4 @@ DetectedEntity
 
 None of them unfortunately allows add-in execution in home window.
 
-Add-in not (yet) visible in OWA. Push & Update from ExO to Desktop client takes > 12 hours.
+Add-in not (yet) visible in OWA. Push & Update from ExO to Desktop client takes ages > 12 hours.
