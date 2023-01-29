@@ -12,6 +12,7 @@
   <AppDomains>
     <AppDomain>https://security.microsoft.com/quarantine</AppDomain>
     <AppDomain>https://siemens-energy.com</AppDomain>
+    <AppDomain>https://frankilein.github.io/Show-Quarantine</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox" />
