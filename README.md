@@ -25,4 +25,5 @@ DetectedEntity
 None of them unfortunately allows add-in execution in home window.
 
 Add-in not (yet) visible in OWA.
+
 Desktop client not updating from ExO.
